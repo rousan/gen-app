@@ -1,2 +1,3 @@
 # gen-app
-Scaffold and generate boilerplates for your next web app
+
+Scaffold and generate boilerplate for your next web app.
