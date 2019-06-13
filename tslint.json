@@ -1,0 +1,17 @@
+{
+  "extends": "tslint-config-airbnb",
+  "defaultSeverity": "error",
+  "linterOptions": {
+    "exclude": [
+      "node_modules/**/*.ts"
+    ]
+  },
+  "jsRules": {},
+  "rules": {
+    "import-name": false,
+    "no-this-assignment": false,
+    "max-line-length": [true, 120],
+    "align": false
+  },
+  "rulesDirectory": []
+}

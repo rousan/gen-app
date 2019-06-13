@@ -1,3 +1,5 @@
 #!/usr/bin/env node
 
-console.log("ff");
+interface ABC {
+  
+}
